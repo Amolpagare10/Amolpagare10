@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">- Embedded systems projects 🖥️<br>- Finance & trading algorithms 📈<br>- Machine learning & AI experiments 🤖<br>- VLSI & circuit design implementations ⚡<br>- Control systems & automation 🤯<br>- Data science & visualization 📊</p>
+<p align="left">🔹 Embedded systems projects 🖥️<br>🔹 Finance & trading algorithms 📈<br>🔹 Machine learning & AI experiments 🤖<br>🔹 VLSI & circuit design implementations ⚡<br>🔹 Control systems & automation 🤯<br>🔹 Data science & visualization 📊</p>
 
 ###
 
