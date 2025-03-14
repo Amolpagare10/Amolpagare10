@@ -11,6 +11,9 @@
 <p align="left">Welcome to my personal repository! 🚀 This is where I back up all my codes, experiments, and projects. 😉</p>
 
 ###
+🌐 [My Academic Website](https://amolpagare10.github.io/)
+
+###
 
 <h2 align="left">📌 What You'll Find Here</h2>
 
