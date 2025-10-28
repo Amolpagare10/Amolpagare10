@@ -1,4 +1,4 @@
-<h1 align="left">Hi! I'm Amol, a third-year student at IIT Bombay and I'm from Pune</h1>
+<h1 align="left">Hi! I'm Amol, a Fourth-year student at IIT Bombay and I'm from Pune</h1>
 
 
 ###
