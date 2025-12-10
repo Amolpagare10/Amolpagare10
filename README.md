@@ -1,56 +1,30 @@
-<h1 align="left">Hi 👋! My name is Amol and I'm a third-year student at IIT Bombay, from Pune!</h1>
+<h1 align="left">Hi! I'm Amol, a Fourth-year student at IIT Bombay and I'm from Pune</h1>
+
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
+<p align="left">Welcome to my personal repository! 🚀 This is where I back up all my codes, experiments, and projects. 😉</p>
+
+###
+🌐 [My Academic Website](https://amolpagare10.github.io/)
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amolpagare10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amolpagare10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<h2 align="left">📌 What You'll Find Here</h2>
 
 ###
 
-<p align="left">Hello World!!</p>
-
-###
-
-<img align="right" height="150" src="data:image/png;base64,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"  />
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/amol-pagare-734967202/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <a href="https://www.instagram.com/amol___pagare/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
+<p align="left">🔹 Embedded systems projects 🖥️<br>🔹 Finance & trading algorithms 📈<br>🔹 Machine learning & AI experiments 🤖<br>🔹 VLSI & circuit design implementations ⚡<br>🔹 Control systems & automation 🤯<br>🔹 Data science & visualization 📊</p>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Amolpagare10/Amolpagare10/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amolpagare10/Amolpagare10/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amolpagare10/Amolpagare10/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Amolpagare10/Amolpagare10/output/github-snake.svg" />
+</picture>
 
 ###
+
