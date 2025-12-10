@@ -1,5 +1,6 @@
-<h1 align="left">Hi! I'm Amol, a Fourth-year student at IIT Bombay and I'm from Pune</h1>
+<h1 align="left">Hi! I'm Amol</h1>
 <img src="https://github.com/Amolpagare10/Amolpagare10/blob/master/Amol_Banner.png" alt="Amol Banner">
+<h3 align="left">I'm a Fourth-year Dual Degree student in Electrical Engineering Department at IIT Bombay and I'm from Pune</h3>
 
 ###
 
