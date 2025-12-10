@@ -1,5 +1,5 @@
 <h1 align="left">Hi! I'm Amol, a Fourth-year student at IIT Bombay and I'm from Pune</h1>
-
+<img src="https://github.com/Amolpagare10/Amolpagare10/blob/master/Amol_Banner.png" alt="Amol Banner">
 
 ###
 
