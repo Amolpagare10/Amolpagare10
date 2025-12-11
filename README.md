@@ -1,7 +1,7 @@
 <h1 align="left">Hi! I'm Amol 👋🏻</h1>
 <!-- <img src="https://github.com/Amolpagare10/Amolpagare10/blob/master/Amol_Banner.png" alt="Amol Banner"> -->
 <p align="center">
-  <img src="welcome.gif" width="450">
+  <img src="gif.gif" width="450">
 </p>
 
 <h3 align="left">I'm a Fourth-year Dual Degree student in Electrical Engineering Department at IIT Bombay and I hail from Pune, India</h3>
